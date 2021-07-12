@@ -13,6 +13,6 @@
     <description lang="en">Send ON or OFF on a MQTT topic</description>
     <website>git.tigre-bleu.net</website>
     <email>devel@tigre-bleu.net</email>
-    <source>https://git.tigre-bleu.net/tigre-bleu/mqtt.screensaver</source>
+    <source>https://git.tigre-bleu.net/tigre-bleu/kodi-screensaver-mqtt</source>
   </extension>
 </addon>
