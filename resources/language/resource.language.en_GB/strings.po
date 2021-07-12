@@ -1,0 +1,33 @@
+# Kodi Media Center language file
+# Addon Name: MQTT Screensaver
+# Addon id: screensaver.mqtt
+# Addon Provider: Tigre-Bleu
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Tigre-Bleu's Addons\n"
+"Report-Msgid-Bugs-To: devel@tigre-bleu.net\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Tigre-Bleu\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30500"
+msgid "Topic"
+msgstr ""
+
+msgctxt "#30501"
+msgid "Broker Host"
+msgstr ""
+
+msgctxt "#30502"
+msgid "Broker Port"
+msgstr ""
+
+msgctxt "#30503"
+msgid "MQTT Settings"
+msgstr ""
