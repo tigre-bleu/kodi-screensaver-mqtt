@@ -11,8 +11,8 @@
     <platform>all</platform>
     <summary lang="en">A screensaver to send screensaver status to MQTT</summary>
     <description lang="en">Send ON or OFF on a MQTT topic</description>
-    <website>git.tigre-bleu.net</website>
+    <website>www.tigre-bleu.net</website>
     <email>devel@tigre-bleu.net</email>
-    <source>https://git.tigre-bleu.net/tigre-bleu/kodi-screensaver-mqtt</source>
+    <source>https://github.com/tigre-bleu/kodi-screensaver-mqtt</source>
   </extension>
 </addon>
